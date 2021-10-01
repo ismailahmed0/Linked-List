@@ -1,0 +1,43 @@
+Insert 22 19 475 1238 9742 0
+# New item with id=22, price="$19", description="475 1238 9742"
+# Return: True
+#
+Insert 12 96 44 109 0
+# Second item with id=12, price="96", description="44 109"
+# Return: True
+#
+Insert 37 47 109 475 694 88 0
+# Another item with id=37, price="47", description="109 475 694 88"
+# Return: True
+#
+DeleteID 37
+# Return: 37 47 109 475 694 88(in a single line)
+#
+FindID 22
+#Return 22 19 475 1238 9742
+#
+PrintTotal		
+# Return: 22+12 = 34
+#
+Insert 22 100 75 128 742 0
+# Same item with id=22, not included in the list
+# Return: False
+#
+Insert 45 100 75 128 742 0
+# New item with id=45, price="$100", description="75 128 742"
+# Return: True
+#
+PrintTotal		
+# Return: 22+12+45 = 79
+#
+DeleteID 111
+#Id=111 is not in the list so print Null
+#
+Sadsad
+#This is an error in line print error message in the output file
+Insert 56
+End
+{Even if there are line after this the program will not read them.}
+
+cxzCzxc
+asdasdas

@@ -1,0 +1,18 @@
+Insert 22 19 475 1238 9742 0
+Insert 12 96 44 109 0
+PrintTotal
+FindID22
+Find 45
+PrintTotal
+24323  mjbjh kjhkjhkj hjhg 
+Insert 56 89 785 587 435 0
+PrintTotal
+Insert 56 98 34 67 324 0
+PrintTotal
+Insert 87 547 456 3435 90 0
+PrintTotal
+DeleteID 
+Find 
+sdfsdf
+FindID 666
+End
